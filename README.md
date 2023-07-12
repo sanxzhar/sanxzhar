@@ -3,8 +3,4 @@
 
 - 🔭 I’m currently working on [Analytic-GPT](https://github.com/SanXzhar/analytic-gpt)
 
-- 🌱 I’m currently learning **Nest.js**
-
-- 💬 Ask me about **React, Langchain, FastAPI**
-
 - 📫 How to reach me **sanxzhar@gmail.com**
