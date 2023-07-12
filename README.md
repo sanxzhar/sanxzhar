@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Sanzhar</h1>
-<h3 align="left">A software engineer from Kazakhstan 🇰🇿</h3>
+<h2 align="left">Hi 👋, I'm Sanzhar</h2>
+<h4 align="left">A software engineer from Kazakhstan 🇰🇿</h4>
 
 - 🔭 I’m currently working on [Analytic-GPT](https://github.com/SanXzhar/analytic-gpt)
 
