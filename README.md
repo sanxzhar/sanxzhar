@@ -5,4 +5,7 @@
 - 📫 How to reach me **sanxzhar@gmail.com**
 
 
-![Profile views](https://komarev.com/ghpvc/?username=sanxzhar&color=ca054d)
+
+
+
+![Profile views](https://komarev.com/ghpvc/?username=sanxzhar&color=39D353)
