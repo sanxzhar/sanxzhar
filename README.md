@@ -3,3 +3,6 @@
 
 - 📂 Open Source Contributor wannabe
 - 📫 How to reach me **sanxzhar@gmail.com**
+
+
+![Profile views](https://komarev.com/ghpvc/?username=sanxzhar&color=ca054d)
