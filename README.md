@@ -1,3 +1,3 @@
-A Computer Science Sophomore from Nazarbayev University 🇰🇿
+A Computer Science Junior from Nazarbayev University 🇰🇿
 
 
